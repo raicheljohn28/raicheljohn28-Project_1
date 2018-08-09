@@ -16,3 +16,4 @@
 
 * ‘Category Bin’ should allow the user to view the current price of the previously saved products.
 
+![](./assets/images/divvy.png)
